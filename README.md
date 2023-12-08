@@ -11,7 +11,7 @@
 This project leverages various libraries and modules to create a Graphical User Interface (GUI) for vocals and instrumentals separation.  
 It's primarily designed for use with HuggingFace Spaces. 🤗   
 
-Ilaria RVC is part of the Ilaria AI Suite wich includes various easy and powerful tools. 💖
+Ilaria UVR is part of the Ilaria AI Suite wich includes various easy and powerful tools. 💖
 
 ## 📦 Installation 📦
 
