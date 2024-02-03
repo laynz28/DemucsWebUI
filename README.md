@@ -49,4 +49,4 @@ Feel free to open a pull request on Hugging Face.
 
 This project is released under the `MIT` license.  
 For more details, please check the license file.  
-For further questions feel free to contact [Laynz2](github.com/laynz28).
+For further questions feel free to contact [Laynz28](github.com/laynz28).
