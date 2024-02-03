@@ -22,4 +22,4 @@ gr.Interface(
     description=description,
     article=article,
     examples=examples
-    ).launch(Share=True)
+    ).launch(share=True)
